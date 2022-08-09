@@ -1,0 +1,101 @@
+.container{
+   align-items: center;  
+}
+#mylist_header_box {
+    width: auto; margin: 0 0 50px 0; 
+ }
+
+ #mylist_header {
+    margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+    font-size: 40px; 
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+ 
+    color : #1c085f;
+    font-family: 'Concert One', cursive;
+ }
+
+ #mylist_title {
+    margin: 0 0 30px 0; padding-bottom: 5px;	border-bottom: solid 3px #1c085f; 
+    font-size: 30px; 
+    font-weight: bold;
+    text-align: center;
+    color : #1c085f;
+    font-family: 'Malgun Gothic'
+ }
+
+ #info_text {
+    font-size: 15px; 
+    color : #1c085f;
+    text-align: center;
+    font-family: 'Malgun Gothic';
+    margin: 0 0 10px 0;
+ }
+
+#search_btn{
+    
+    margin: 32px 0 30px 40px;
+    width: 100%;
+    border: solid 2px #1c085f;
+    background-color: #1c085f;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Concert One', cursive;
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 16px; 
+
+ }
+ 
+#search_btn:hover{
+    color:#ffffff;
+    background-color: #514282;
+    border: solid 2px #514282;
+ }
+
+#btn_div{
+   text-align: right;
+}
+
+#cancle_btn{
+   display: inline-block;
+   width: 12%;
+   border: solid 2px #1c085f;
+   background-color: #1c085f;
+   border-top-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   border-top-right-radius: 5px;
+   font-family: 'Malgun Gothic';
+   color: #FFFFFF;
+   padding: 5px;
+   font-size: 15px; 
+   
+}
+
+#cancle_btn:hover{
+   color:#ffffff;
+   background-color: #514282;
+   border: solid 2px #514282;
+}
+
+#query_title {
+   text-align: center;
+   padding : 10px 10px 10px 10px;
+   border: solid 2px #514282;
+   width: auto;
+   font-size: 20px;
+   color: #1c085f;
+}
+
+#query_info {
+
+   padding : 10px 20px 10px 20px;
+   border: solid 2px #514282;
+   width: auto;
+   font-size: 18px;
+   margin: 0 0 50px 0;
+}

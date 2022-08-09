@@ -1,0 +1,23 @@
+#schedule_header_box {
+    width: auto; margin: 0 0 50px 0; 
+ }
+ 
+ #schedule_header {
+    margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+    font-size: 40px; 
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+ 
+    color : #1c085f;
+    font-family: 'Concert One', cursive;
+ }
+
+ #schedule_title {
+    margin: 0 0 30px 0; padding-bottom: 5px;	border-bottom: solid 3px #1c085f; 
+    font-size: 30px; 
+    font-weight: bold;
+    text-align: center;
+    color : #1c085f;
+    font-family: 'Malgun Gothic'
+ }

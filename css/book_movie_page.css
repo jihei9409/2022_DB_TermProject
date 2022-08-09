@@ -1,0 +1,73 @@
+#book_movie_header_box {
+   width: 1000px; margin: 0 auto; 
+}
+
+#book_movie_header {
+   margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+   font-size: 40px; 
+   font-weight: bold;
+   align-content: center;
+   text-align: center;
+
+   color : #1c085f;
+   font-family: 'Concert One', cursive;
+}
+
+#book_movie_box {
+    width: 800px; margin: 0 auto;
+    text-align: center;
+    align-content: center;
+}
+
+#seats_box{
+   width : 500px;
+   height : 500px;
+   background-color: #514282;
+
+}
+
+#remain_seats {
+   margin: 50px 0 50px 0; padding-bottom: 5px; 
+   font-size: 20px; 
+   font-weight: bold;
+   text-align: center;
+   color : #1c085f;
+   font-family: 'Malgun Gothic'
+}
+
+#seat_Chkbox{
+    
+   border: solid 2px #1c085f;
+   background-color: #1c085f;
+   border-top-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   border-top-right-radius: 5px;
+   width: 20px;
+   height: 20px;
+
+}
+
+#submit_btn{
+   
+   margin: 30px 0px 0px 0px;
+   border: solid 2px #1c085f;
+   background-color: #1c085f;
+   border-top-left-radius: 5px;
+   border-bottom-right-radius: 5px;
+   border-bottom-left-radius: 5px;
+   border-top-right-radius: 5px;
+   font-family: 'Concert One', cursive;
+   color: #FFFFFF;
+   padding: 5px;
+   font-size: 30px; 
+   width: 20%;
+   
+}
+
+#submit_btn:hover{
+   color:#ffffff;
+   background-color: #514282;
+   border: solid 2px #514282;
+}
+

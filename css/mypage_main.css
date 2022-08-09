@@ -1,0 +1,64 @@
+#mypage_header_box {
+    width: 1000px; margin: 0 auto; 
+}
+
+#mypage_header {
+    margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+    font-size: 40px; 
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+
+    color : #1c085f;
+    font-family: 'Concert One', cursive;
+}
+
+#mypage_box {
+     width: 429px; margin: 0 auto; 
+}
+#mypage_title {
+     margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+     font-size: 50px; 
+     font-weight: bold;
+     text-align: center;
+     color : #1c085f;
+     font-family: 'Concert One', cursive;
+}
+
+#mypage_form {
+    margin-top: 20px; 
+}
+#mypage_form ul {
+    
+   padding: 0 0 0 0;
+}
+#mypage_form li {
+    
+    list-style: none;
+    margin-top: 10px; 
+}
+
+#mypage_btn{
+    
+    margin-bottom: 10px;
+    border: solid 2px #1c085f;
+    background-color: #1c085f;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Malgun Gothic';
+
+
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 20px; 
+    width: 100%;
+    
+}
+
+#mypage_btn:hover{
+    color:#ffffff;
+    background-color: #514282;
+    border: solid 2px #514282;
+}

@@ -1,0 +1,76 @@
+#login_header_box {
+    width: 500px; margin: 0 auto; 
+}
+
+#login_header {
+    margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+    font-size: 80px; 
+    font-weight: bold;
+    align-content: center;
+
+    color : #1c085f;
+    font-family: 'Concert One', cursive;
+}
+
+#login_box {
+     width: 429px; margin: 0 auto; 
+}
+#login_title {
+     margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+     font-size: 30px; 
+     font-weight: bold;
+     text-align: center;
+     color : #1c085f;
+     font-family: 'Concert One', cursive;
+}
+
+#login_form {
+    margin-top: 20px; 
+}
+#login_form ul {
+    
+   padding: 0 0 0 0;
+}
+#login_form li {
+    
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+    border: solid 2px #1c085f;
+    list-style: none;
+    margin-top: 10px; 
+}
+#login_form input {
+    /* font-family: 'Concert One', cursive; */
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+
+    font-family: 'Malgun Gothic';
+    border: none;
+    width: 99%; height: 47px; 
+}
+#login_btn{
+    
+    border: solid 2px #1c085f;
+    background-color: #1c085f;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Concert One', cursive;
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 30px; 
+    width: 100%;
+    
+}
+
+#login_btn:hover{
+    color:#ffffff;
+    background-color: #514282;
+    border: solid 2px #514282;
+}

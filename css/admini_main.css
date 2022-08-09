@@ -1,0 +1,63 @@
+#main_header_box {
+    width: 1000px; margin: 0 auto; 
+ }
+ 
+ #main_header {
+    margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 5px #1c085f; 
+    font-size: 80px; 
+    font-weight: bold;
+    align-content: center;
+    text-align: center;
+ 
+    color : #1c085f;
+    font-family: 'Concert One', cursive;
+ }
+ 
+ #main_box {
+     width: 800px; margin: 0 auto; 
+ }
+ #main_title {
+    margin: 50px 0 0 0; padding-bottom: 5px;	border-bottom: solid 3px #1c085f; 
+    font-size: 30px; 
+    font-weight: bold;
+    text-align: center;
+    color : #1c085f;
+    font-family: 'Malgun Gothic'
+ }
+ 
+ #main_select {
+    margin-top: 20px; 
+ }
+ #main_select ul { 
+    text-align: center;
+   padding: 0 0 0 0;
+ }
+ #main_select li {
+    
+    list-style: none;
+    margin-top: 10px; 
+ }
+
+ #admini_main_btn{
+
+    display: inline-block;
+    border: solid 2px #1c085f;
+    background-color: #1c085f;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    font-family: 'Malgun Gothic';
+    color: #FFFFFF;
+    padding: 5px;
+    font-size: 20px; 
+    width: 80%;
+    
+ }
+ 
+ #admini_main_btn:hover{
+    color:#ffffff;
+    background-color: #514282;
+    border: solid 2px #514282;
+ }
+ 
